@@ -1,8 +1,0 @@
-Estructura:
-
-	-Preguntar nombre y apellido del cliente
-
-	-Responder "Hola -cliente-, cuánto desea ingresar? Debés recordar que el ingreso debe ser superior a $10.000, con un interés del 20%.
-
-	-Devolver cotización del crédito con el interés:
-		"Muy bien, el valor es de -valor+interés- ". Si deseas aceptar el crédito, contáctese con nosotros: guido@creditos.com
